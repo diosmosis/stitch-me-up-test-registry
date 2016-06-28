@@ -22,5 +22,11 @@
     "mocks": {
       "root": "mocks"
     }
+  },
+  "microserviceRoot": {
+    "git": "git@github.com:diosmosis/stitch-me-up-test-microserviceRoot.git",
+    "mocks": {
+      "root": "mocks"
+    }
   }
 }
