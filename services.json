@@ -1,0 +1,26 @@
+{
+  "microserviceA": {
+    "git": "git@github.com:diosmosis/stitch-me-up-test-microserviceA.git",
+    "mocks": {
+      "root": "mocks"
+    }
+  },
+  "microserviceB": {
+    "git": "git@github.com:diosmosis/stitch-me-up-test-microserviceB.git",
+    "mocks": {
+      "root": "mocks"
+    }
+  },
+  "microserviceC": {
+    "git": "git@github.com:diosmosis/stitch-me-up-test-microserviceC.git",
+    "mocks": {
+      "root": "mocks"
+    }
+  },
+  "microserviceD": {
+    "git": "git@github.com:diosmosis/stitch-me-up-test-microserviceD.git",
+    "mocks": {
+      "root": "mocks"
+    }
+  }
+}
