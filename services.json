@@ -7,6 +7,7 @@
   },
   "microserviceB": {
     "git": "https://github.com/diosmosis/stitch-me-up-test-microserviceB.git",
+    "branch": "develop",
     "mocks": {
       "root": "mocks"
     }
@@ -19,6 +20,7 @@
   },
   "microserviceD": {
     "git": "https://github.com/diosmosis/stitch-me-up-test-microserviceD.git",
+    "branch": "1.0.0",
     "mocks": {
       "root": "mocks"
     }
