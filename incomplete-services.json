@@ -1,6 +1,7 @@
 {
   "microserviceA": {
     "mocks": {
+      "git": "https://github.com/diosmosis/stitch-me-up-test-microserviceA.git",
       "root": "mocks"
     }
   },
